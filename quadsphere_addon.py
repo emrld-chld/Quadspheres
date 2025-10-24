@@ -12,6 +12,8 @@ bl_info = {
 import bpy
 import mathutils
 
+# note 001
+
 # ------------------------------
 # Scene properties for remembering settings
 # ------------------------------
