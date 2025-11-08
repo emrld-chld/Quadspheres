@@ -11,5 +11,5 @@ Installation:
 - Extract zip, then Blender > Preferences > Addons > Install from disk
 - select the quadsphere_addon.py
 
-(Drag & drop doesn't work, because github puts the file inside a folder and I don't know how to fix that, I'm not a dev.)
+(Drag & drop doesn't work, github puts the file inside a folder and I don't know how to fix that, I'm not a dev.)
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
