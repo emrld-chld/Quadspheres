@@ -1,3 +1,5 @@
+Creates custom Quadsphere solids.
+
 <img width="1183" height="911" alt="quadspheres-sign" src="https://github.com/user-attachments/assets/17f120e4-1175-45b4-9d88-200cc1c2e29d" />
 
 Menu includes:
