@@ -5,7 +5,7 @@ Creates custom Quadsphere solids.
 Menu includes:
 
 <img width="1166" height="486" alt="image" src="https://github.com/user-attachments/assets/e22749ae-7f53-4653-a84f-4cbef3b7a6d1" />
-First Quadsphere will remember your last used settings.
+The first menu item "Quadsphere" will remember your last used settings, the rest have their specified settings.
 
 Installation:
 - Extract zip, then Blender > Preferences > Addons > Install from disk
